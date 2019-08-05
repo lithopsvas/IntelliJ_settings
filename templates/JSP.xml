@@ -1,0 +1,9 @@
+<templateSet group="JSP">
+  <template name="pep" value="&lt;c:param name=&quot;pageTitle&quot; value=&quot;$VAR$&quot;/&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+</templateSet>

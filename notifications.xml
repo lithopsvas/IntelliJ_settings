@@ -1,0 +1,10 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId=".ignore plugin" displayType="NONE" shouldLog="false" />
+    <notification groupId="IGNORE_GROUP" displayType="NONE" />
+    <notification groupId="Localization and Internationalization" displayType="NONE" shouldLog="false" />
+    <notification groupId="Lombok plugin" displayType="NONE" shouldLog="false" />
+    <notification groupId="Spring Configuration Check" displayType="NONE" />
+    <notification groupId="Vcs Important Messages" />
+  </component>
+</application>

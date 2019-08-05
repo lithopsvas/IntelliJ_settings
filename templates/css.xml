@@ -1,0 +1,9 @@
+<templateSet group="css">
+  <template name="///" value="//region $VAR$&#10;&#10;$VAR2$&#10;&#10;//endregion $VAR$" description="" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>

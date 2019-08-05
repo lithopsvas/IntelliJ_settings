@@ -1,0 +1,31 @@
+<application>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="JAVA" value="true" />
+        <entry key="JavaScript 1.8" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+  </component>
+  <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeUpdateOnChanges="true" />
+  <component name="TodoConfiguration">
+    <pattern case-sensitive="true" pattern="TODO" />
+    <pattern icon="question" case-sensitive="true" pattern="FIXME" />
+    <filter name="FIXME">
+      <pattern index="1" />
+    </filter>
+    <filter name="TODOs">
+      <pattern index="0" />
+    </filter>
+  </component>
+</application>
