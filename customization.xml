@@ -76,10 +76,24 @@
       <path value="Optional Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Vcs.ShowTabbedFileHistory" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Ctrl Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="FindUsages" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.ShowHistoryForBlock" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Ctrl Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="RenameElement" is_action="true" action_type="1" position="2">
@@ -92,6 +106,20 @@
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="LocalHistory.ShowHistory" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Ctrl Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="LocalHistory.ShowSelectionHistory" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Ctrl Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
