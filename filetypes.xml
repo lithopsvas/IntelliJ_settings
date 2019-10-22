@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="Utils" type="JavaScript" />
       <mapping pattern="Appfile" type="PLAIN_TEXT" />
       <mapping pattern="Service.js" type="PLAIN_TEXT" />
       <mapping ext="swiftdoc" type="PLAIN_TEXT" />
