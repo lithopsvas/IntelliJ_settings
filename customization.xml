@@ -1,18 +1,12 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group seperator="true" action_type="-1" position="6">
+    <group seperator="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Stop" is_action="true" action_type="-1" position="4">
+    <group value="Stop" is_action="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
@@ -24,7 +18,7 @@
       <path value="MainToolBarSettings" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RunConfiguration" is_action="true" action_type="-1" position="2">
+    <group value="RunnerActionsTouchbar" is_group="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
@@ -36,17 +30,10 @@
       <path value="MainToolBarSettings" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CompileDirty" is_action="true" action_type="-1" position="1">
+    <group value="RunConfiguration" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Debug" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Touchbar Run/Debug Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="CheckinProject" is_action="true" action_type="-1" position="1">
@@ -56,17 +43,10 @@
       <path value="Optional Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Console.Jdbc.Execute" is_action="true" action_type="-1" position="0">
+    <group value="CompileDirty" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Run" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Touchbar Run/Debug Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="0">
@@ -76,6 +56,12 @@
       <path value="Optional Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="FindUsages" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Vcs.ShowTabbedFileHistory" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
@@ -83,7 +69,7 @@
       <path value="Default with Ctrl Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="FindUsages" is_action="true" action_type="1" position="1">
+    <group value="RenameElement" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
@@ -96,13 +82,13 @@
       <path value="Default with Ctrl Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RenameElement" is_action="true" action_type="1" position="2">
+    <group value="Terminal.OpenInTerminal" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Terminal.OpenInTerminal" is_action="true" action_type="1" position="3">
+    <group value="Vcs.ShowTabbedFileHistory" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
@@ -115,12 +101,6 @@
       <path value="Default with Ctrl Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.ShowTabbedFileHistory" is_action="true" action_type="1" position="4">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="LocalHistory.ShowSelectionHistory" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Touch Bar" />
@@ -128,5 +108,6 @@
       <path value="Default with Ctrl Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <action id="LocalHistory.ShowHistory" icon="$USER_HOME$/Desktop/Screenshot 2020-01-21 at 14.27.55.png" />
   </component>
 </application>
