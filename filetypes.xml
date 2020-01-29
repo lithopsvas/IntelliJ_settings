@@ -12,8 +12,6 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="utils" type="TypeScript" />
-      <mapping ext="tsx" type="TypeScript" />
-      <removed_mapping ext="tsx" type="TypeScript JSX" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="dockerfile" approved="true" type="PLAIN_TEXT" />
