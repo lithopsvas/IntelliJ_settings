@@ -14,6 +14,10 @@
           <option name="url" value="https://illimitybank.visualstudio.com/HomeBankingFrontEnd/_git/HomeBankingFrontEnd" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://tfs.txtgroup.com" />
+          <option name="userName" value="anton.vorozhbit@txtgroup.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Work/workspace/IDEA-Projects" />
