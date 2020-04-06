@@ -18,6 +18,9 @@
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Console.TableResult.SetDefault">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt a" />
+  </action>
   <action id="Console.TableResult.Transpose">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
