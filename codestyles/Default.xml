@@ -7,6 +7,9 @@
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
   </JSCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
   </codeStyleSettings>
