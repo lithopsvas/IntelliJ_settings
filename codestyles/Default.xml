@@ -6,6 +6,7 @@
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
+    <option name="IMPORTS_WRAP" value="0" />
   </JSCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
