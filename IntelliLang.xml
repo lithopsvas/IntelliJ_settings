@@ -1,10 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <option name="INSTRUMENTATION" value="ASSERT" />
-    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
-    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
-    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
-    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="SQL" injector-id="js">
+      <display-name>SQL select/delete/insert/update/create</display-name>
+      <place disabled="true"><![CDATA[jsLiteralExpression().withText(string().matchesBrics("[\"'`] *(WITH .* AS *\\()? *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE .* SET)|((CREATE|DROP|ALTER) +((TEMPORARY )?TABLE|(UNIQUE )?INDEX))) .*[\"'`]?"))]]></place>
+    </injection>
     <injection language="CSS" injector-id="xml">
       <display-name>div/@style</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("style")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
