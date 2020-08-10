@@ -50,6 +50,7 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="alt b" />
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="shift alt g" />
@@ -153,9 +154,6 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
-  </action>
-  <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
