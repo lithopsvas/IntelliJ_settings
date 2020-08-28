@@ -88,6 +88,7 @@
     <keyboard-shortcut first-keystroke="shift f7" />
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="RecentLocations" />
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="meta alt back_quote" />
   </action>
@@ -154,6 +155,10 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="alt e" />
+    <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
