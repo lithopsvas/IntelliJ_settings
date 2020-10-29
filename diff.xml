@@ -72,13 +72,6 @@
           <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
-      <entry key="ChangesView">
-        <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
-          <option name="SHOW_LINE_NUMBERS" value="false" />
-        </PlaceSettings>
-      </entry>
       <entry key="CommitDialog">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
