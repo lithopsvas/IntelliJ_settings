@@ -2,14 +2,13 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.idea;*.im;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;Pods;__pycache__;_svn;etc;node;tmp;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <removed_mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern="DockerfileProd" type="Dockerfile" />
       <mapping ext="dev" type="Dockerfile" />
       <mapping ext="prod" type="Dockerfile" />
       <mapping pattern=".env-cmdrc" type="JSON" />
       <mapping pattern="Utils" type="JavaScript" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="the-real-index" type="PLAIN_TEXT" />
       <mapping pattern="Service.js" type="PLAIN_TEXT" />
       <mapping pattern="0a0b20d1cbbcb438_0" type="PLAIN_TEXT" />
